@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block titulo %}Apoio à Vida Acadêmica{% endblock %} – Protótipo</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="faixa-demo" role="status">PROTÓTIPO ACADÊMICO · dados fictícios · sem integração com o Minha UFOP</div>
+  <main>{% block conteudo %}{% endblock %}</main>
+</body>
+</html>

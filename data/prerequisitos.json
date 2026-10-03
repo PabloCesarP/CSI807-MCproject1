@@ -1,0 +1,138 @@
+[
+  {
+    "disciplina": "CSI102",
+    "requisito": "CSI101"
+  },
+  {
+    "disciplina": "CSI103",
+    "requisito": "CSI101"
+  },
+  {
+    "disciplina": "CSI104",
+    "requisito": "CSI102"
+  },
+  {
+    "disciplina": "CSI104",
+    "requisito": "CSI103"
+  },
+  {
+    "disciplina": "CSI115",
+    "requisito": "CSI011"
+  },
+  {
+    "disciplina": "CSI115",
+    "requisito": "CSI103"
+  },
+  {
+    "disciplina": "CEA055",
+    "requisito": "CEA060"
+  },
+  {
+    "disciplina": "CSI412",
+    "requisito": "CSI102"
+  },
+  {
+    "disciplina": "CSI412",
+    "requisito": "CSI103"
+  },
+  {
+    "disciplina": "CSI602",
+    "requisito": "CSI103"
+  },
+  {
+    "disciplina": "CSI204",
+    "requisito": "CSI103"
+  },
+  {
+    "disciplina": "CSI204",
+    "requisito": "CSI211"
+  },
+  {
+    "disciplina": "ENP012",
+    "requisito": "CEA059"
+  },
+  {
+    "disciplina": "ENP012",
+    "requisito": "CSI103"
+  },
+  {
+    "disciplina": "ENP150",
+    "requisito": "CEA060"
+  },
+  {
+    "disciplina": "CSI410",
+    "requisito": "CSI412"
+  },
+  {
+    "disciplina": "CSI522",
+    "requisito": "CSI412"
+  },
+  {
+    "disciplina": "CSI106",
+    "requisito": "CSI115"
+  },
+  {
+    "disciplina": "CSI301",
+    "requisito": "CSI101"
+  },
+  {
+    "disciplina": "CSI301",
+    "requisito": "CSI211"
+  },
+  {
+    "disciplina": "CSI701",
+    "requisito": "CSI115"
+  },
+  {
+    "disciplina": "CSI405",
+    "requisito": "CSI410"
+  },
+  {
+    "disciplina": "CSI606",
+    "requisito": "CSI412"
+  },
+  {
+    "disciplina": "CSI606",
+    "requisito": "CSI602"
+  },
+  {
+    "disciplina": "CSI991",
+    "requisito": "CSI990"
+  },
+  {
+    "disciplina": "CSI114",
+    "requisito": "CSI106"
+  },
+  {
+    "disciplina": "CSI302",
+    "requisito": "CSI204"
+  },
+  {
+    "disciplina": "CSI302",
+    "requisito": "CSI301"
+  },
+  {
+    "disciplina": "CSI808",
+    "requisito": "CSI807"
+  },
+  {
+    "disciplina": "CSI992",
+    "requisito": "CSI902"
+  },
+  {
+    "disciplina": "CSI307",
+    "requisito": "CSI301"
+  },
+  {
+    "disciplina": "CSI605",
+    "requisito": "CSI601"
+  },
+  {
+    "disciplina": "CSI605",
+    "requisito": "CSI602"
+  },
+  {
+    "disciplina": "CSI997",
+    "requisito": "CSI992"
+  }
+]

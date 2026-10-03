@@ -1,0 +1,363 @@
+[
+  {
+    "codigo": "CSI101",
+    "nome": "Programação de Computadores I",
+    "periodo": 1,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CEA060",
+    "nome": "Fundamentos de Cálculo",
+    "periodo": 1,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CEA059",
+    "nome": "Fundamentos de Geometria Analítica e Álgebra Linear",
+    "periodo": 1,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI601",
+    "nome": "Fundamentos de SI",
+    "periodo": 1,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI901",
+    "nome": "Informática e Sociedade",
+    "periodo": 1,
+    "carga_horaria": 30,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI902",
+    "nome": "Metodologia de Pesquisa",
+    "periodo": 1,
+    "carga_horaria": 30,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI102",
+    "nome": "Programação de Computadores II",
+    "periodo": 2,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI103",
+    "nome": "Algoritmos e Estruturas de Dados I",
+    "periodo": 2,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI011",
+    "nome": "Matemática Discreta",
+    "periodo": 2,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI807",
+    "nome": "Gestão da Informação",
+    "periodo": 2,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "ENP144",
+    "nome": "Teoria Geral da Administração",
+    "periodo": 2,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI104",
+    "nome": "Algoritmos e Estruturas de Dados II",
+    "periodo": 3,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI115",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "periodo": 3,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI211",
+    "nome": "Fundamentos de Organização e Arquitetura de Computadores",
+    "periodo": 3,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CEA055",
+    "nome": "Estatística e Probabilidade",
+    "periodo": 3,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "ENP473",
+    "nome": "Comportamento Organizacional",
+    "periodo": 3,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI412",
+    "nome": "Engenharia de Software I",
+    "periodo": 4,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI602",
+    "nome": "Banco de Dados I",
+    "periodo": 4,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI204",
+    "nome": "Sistemas Operacionais",
+    "periodo": 4,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "ENP012",
+    "nome": "Programação Linear e Inteira",
+    "periodo": 4,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "ENP150",
+    "nome": "Economia",
+    "periodo": 4,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI410",
+    "nome": "Engenharia de Software II",
+    "periodo": 5,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI522",
+    "nome": "Interação Humano-Computador",
+    "periodo": 5,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI106",
+    "nome": "Fundamentos Teóricos da Computação",
+    "periodo": 5,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI301",
+    "nome": "Redes de Computadores I",
+    "periodo": 5,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI701",
+    "nome": "Inteligência Artificial",
+    "periodo": 5,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI990",
+    "nome": "Projeto Integrador I",
+    "periodo": 5,
+    "carga_horaria": 30,
+    "tipo": "projeto_integrador",
+    "horas_minimas": 0,
+    "observacao": "CONFERIR: a imagem da matriz indica 'Projeto/integração' como pré-requisito; cadastrado provisoriamente sem pré-requisito."
+  },
+  {
+    "codigo": "CSI405",
+    "nome": "Gerência de Projetos de Software",
+    "periodo": 6,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI606",
+    "nome": "Sistemas Web I",
+    "periodo": 6,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI991",
+    "nome": "Projeto Integrador II",
+    "periodo": 6,
+    "carga_horaria": 60,
+    "tipo": "projeto_integrador",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI114",
+    "nome": "Linguagens de Programação",
+    "periodo": 6,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI302",
+    "nome": "Sistemas Distribuídos",
+    "periodo": 6,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "ENP493",
+    "nome": "Empreendedorismo",
+    "periodo": 7,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 1800,
+    "observacao": "Pré-requisito por carga horária concluída (1.800h)."
+  },
+  {
+    "codigo": "ENP026",
+    "nome": "Administração de Recursos Humanos",
+    "periodo": 7,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI808",
+    "nome": "Gestão da TI",
+    "periodo": 7,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "ELE-1",
+    "nome": "Eletiva I",
+    "periodo": 7,
+    "carga_horaria": 60,
+    "tipo": "eletiva",
+    "horas_minimas": 0,
+    "observacao": "Código interno do protótipo (eletivas não têm código na matriz)."
+  },
+  {
+    "codigo": "ELE-2",
+    "nome": "Eletiva II",
+    "periodo": 7,
+    "carga_horaria": 60,
+    "tipo": "eletiva",
+    "horas_minimas": 0,
+    "observacao": "Código interno do protótipo (eletivas não têm código na matriz)."
+  },
+  {
+    "codigo": "CSI992",
+    "nome": "TCC I",
+    "periodo": 7,
+    "carga_horaria": 30,
+    "tipo": "tcc",
+    "horas_minimas": 1800,
+    "observacao": "CONFERIR: matriz indica 'CSI902 / 1.800h'; cadastrado como CSI902 E 1.800h."
+  },
+  {
+    "codigo": "CSI307",
+    "nome": "Segurança e Auditoria",
+    "periodo": 8,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "CSI605",
+    "nome": "Sistemas de Apoio à Decisão",
+    "periodo": 8,
+    "carga_horaria": 60,
+    "tipo": "obrigatoria",
+    "horas_minimas": 0
+  },
+  {
+    "codigo": "ELE-3",
+    "nome": "Eletiva III",
+    "periodo": 8,
+    "carga_horaria": 60,
+    "tipo": "eletiva",
+    "horas_minimas": 0,
+    "observacao": "Código interno do protótipo (eletivas não têm código na matriz)."
+  },
+  {
+    "codigo": "ELE-4",
+    "nome": "Eletiva IV",
+    "periodo": 8,
+    "carga_horaria": 60,
+    "tipo": "eletiva",
+    "horas_minimas": 0,
+    "observacao": "Código interno do protótipo (eletivas não têm código na matriz)."
+  },
+  {
+    "codigo": "ELE-5",
+    "nome": "Eletiva V",
+    "periodo": 8,
+    "carga_horaria": 60,
+    "tipo": "eletiva",
+    "horas_minimas": 0,
+    "observacao": "Código interno do protótipo (eletivas não têm código na matriz)."
+  },
+  {
+    "codigo": "CSI997",
+    "nome": "TCC II",
+    "periodo": 8,
+    "carga_horaria": 30,
+    "tipo": "tcc",
+    "horas_minimas": 0,
+    "observacao": "CONFERIR: a matriz indica CSI996, código que não existe na tabela; cadastrado provisoriamente como CSI992 (TCC I)."
+  }
+]
